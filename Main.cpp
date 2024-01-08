@@ -2,8 +2,8 @@
 #include <iostream>
 #include <vector>
 
-constexpr const auto windowSizeX = 960;
-constexpr const auto windowSizeY = 540;
+constexpr const auto windowSizeX = 1080;
+constexpr const auto windowSizeY = 720;
 
 template<class T>
 inline const T& clamp(const T& v, const T& lo, const T& hi)
