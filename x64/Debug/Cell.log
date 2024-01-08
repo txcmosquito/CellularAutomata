@@ -1,0 +1,74 @@
+﻿  Main.cpp
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,61): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(37,43): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,67): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(38,49): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,73): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(39,49): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,67): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:         with
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:             T=int
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:         ]
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:         and
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:         [
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:             T=float
+C:\Users\Devesh\source\repos\SFML\Cell\Cell\Main.cpp(40,43): warning C4244:         ]
+  Cell.vcxproj -> C:\Users\Devesh\source\repos\SFML\Cell\x64\Debug\Cell.exe
