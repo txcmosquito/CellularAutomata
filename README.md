@@ -36,9 +36,6 @@ Before running the program, make sure you have SFML installed on your system.
 - **Mouse Wheel:** Scroll up/down to zoom in/out.
 - **Close Window:** Press the close button to exit the application.
 
-## Screenshots
-
-![Screenshot1](https://raw.githubusercontent.com/txcmosquito/CellularAutomata/master/SS/cell.png)
 
 
 ## License
